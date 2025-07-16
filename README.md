@@ -51,11 +51,6 @@ For questions or feedback, feel free to open an issue or reach out via email on 
 📖 License
 MIT License – Free to use, modify, and share with attribution.
 
-## 🖼️ Preview
-<img width="1833" height="914" alt="image" src="https://github.com/user-attachments/assets/e1348f06-6d46-4160-9199-970591bc3fe2" />
-<img width="1857" height="921" alt="image" src="https://github.com/user-attachments/assets/186cc65f-6fd7-4cf6-91c6-cbc7c4be5e4b" />
-
-
 🔗 Add Social Sharing Link
 Add a badge to let folks tweet about Happyfy!
 
