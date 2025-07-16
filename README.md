@@ -4,9 +4,9 @@
 
 ### 🌐 Live Demos
 Try out Happyfy on Vercel:
-- [happyfy-six.vercel.app](https://happyfy-six.vercel.app)
+
 - [happyfy-ddw4.vercel.app](https://happyfy-ddw4.vercel.app)
-- [happyfy-9sff.vercel.app](https://happyfy-9sff.vercel.app)
+
 
 ---
 
