@@ -51,8 +51,3 @@ For questions or feedback, feel free to open an issue or reach out via email on 
 📖 License
 MIT License – Free to use, modify, and share with attribution.
 
-🔗 Add Social Sharing Link
-Add a badge to let folks tweet about Happyfy!
-
-markdown
-[![Tweet](https://img.shields.io/twitter/url?url=https://github.com/Dhruvlearns/Happyfy)](https://twitter.com/intent/tweet?text=Check%20out%20Happyfy%20%E2%9C%A8%20A%20web%20app%20to%20boost%20your%20mental%20wellbeing%20with%20meditation%2C%20AI%20therapy%2C%20and%20more%20%F0%9F%92%95&url=https://github.com/Dhruvlearns/Happyfy)
